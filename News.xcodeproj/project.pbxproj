@@ -17,6 +17,7 @@
 		4644F3F724914B5E00DAE0DD /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4644F3F624914B5E00DAE0DD /* Article.swift */; };
 		4644F3FA24914D6B00DAE0DD /* ArticleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4644F3F924914D6B00DAE0DD /* ArticleViewModel.swift */; };
 		4644F3FD24915A2000DAE0DD /* ArticleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4644F3FC24915A2000DAE0DD /* ArticleTableViewCell.swift */; };
+		4644F3FF24915FCE00DAE0DD /* sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 4644F3FE24915FCD00DAE0DD /* sample.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4644F3F624914B5E00DAE0DD /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
 		4644F3F924914D6B00DAE0DD /* ArticleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewModel.swift; sourceTree = "<group>"; };
 		4644F3FC24915A2000DAE0DD /* ArticleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleTableViewCell.swift; sourceTree = "<group>"; };
+		4644F3FE24915FCD00DAE0DD /* sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		4644F3DA249143FB00DAE0DD /* News */ = {
 			isa = PBXGroup;
 			children = (
+				4644F3FE24915FCD00DAE0DD /* sample.png */,
 				4644F3FB24915A0A00DAE0DD /* Cells */,
 				4644F3F824914D5D00DAE0DD /* View Models */,
 				4644F3F524914B4C00DAE0DD /* Model */,
@@ -177,6 +180,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4644F3FF24915FCE00DAE0DD /* sample.png in Resources */,
 				4644F3E8249143FE00DAE0DD /* LaunchScreen.storyboard in Resources */,
 				4644F3E5249143FE00DAE0DD /* Assets.xcassets in Resources */,
 				4644F3E3249143FB00DAE0DD /* Main.storyboard in Resources */,
